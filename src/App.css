@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+.loadingdisplay {
+  display: flex;
+  margin-top: auto;
+}
+.App {
+  position: sticky;
+  color: azure;
+  margin-left: 40%;
+  margin-right: 40%;
+}
